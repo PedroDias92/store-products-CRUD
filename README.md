@@ -28,9 +28,9 @@ We'll be using:
     * npm install -g knex
 
 ## Check List
-* [ ] Setup client folder
-  * [ ] index.html
-  * [ ] Add bootswatch CDN
+* [x] Setup client folder
+  * [x] index.html
+  * [x] Add bootswatch CDN
   * [ ] Create app.js
   * [ ] git init
 * [ ] Create a server folder
